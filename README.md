@@ -15,8 +15,7 @@ They can also view and end all pending book loans.
 
 ## Usage
 
-To run the app, download and extract `libraryNTUA.zip` from the [releases](/releases) page, and run `launch.bat`.
-
 To log in as the default admin use the following account info:
+```txt
 Username: medialab
 Password: medialab_2024
